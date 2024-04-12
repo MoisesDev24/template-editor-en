@@ -1,0 +1,366 @@
+[04-Apr-2024 16:21:23 UTC] PHP Notice:  Undefined variable: emailShop in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 10
+[04-Apr-2024 16:21:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:10) in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 102
+[04-Apr-2024 16:21:26 UTC] PHP Notice:  Undefined variable: emailShop in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 10
+[04-Apr-2024 16:21:26 UTC] PHP Notice:  Undefined index: emailAccount in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 13
+[04-Apr-2024 16:21:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:10) in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 102
+[04-Apr-2024 16:21:34 UTC] PHP Notice:  Undefined variable: emailShop in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 10
+[04-Apr-2024 16:21:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:10) in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 102
+[04-Apr-2024 16:22:23 UTC] PHP Notice:  Undefined variable: emailShop in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 10
+[04-Apr-2024 16:22:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:10) in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 102
+[04-Apr-2024 16:22:39 UTC] PHP Notice:  Undefined variable: emailShop in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 10
+[04-Apr-2024 16:22:39 UTC] PHP Notice:  Undefined index: emailAccount in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 13
+[04-Apr-2024 16:22:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:10) in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 102
+[04-Apr-2024 16:22:51 UTC] PHP Notice:  Undefined variable: emailShop in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 10
+[04-Apr-2024 16:22:51 UTC] PHP Notice:  Undefined index: emailAccount in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 13
+[04-Apr-2024 16:22:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:10) in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 102
+[04-Apr-2024 16:23:31 UTC] PHP Notice:  Undefined variable: emailShop in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 10
+[04-Apr-2024 16:23:31 UTC] PHP Notice:  Undefined index: emailAccount in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 13
+[04-Apr-2024 16:23:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:10) in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 102
+[04-Apr-2024 16:24:26 UTC] PHP Notice:  Undefined variable: emailShop in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 10
+[04-Apr-2024 16:24:26 UTC] PHP Notice:  Undefined index: emailAccount in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 13
+[04-Apr-2024 16:24:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:10) in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 102
+[04-Apr-2024 16:24:33 UTC] PHP Notice:  Undefined variable: emailShop in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 10
+[04-Apr-2024 16:24:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:10) in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 102
+[04-Apr-2024 16:24:36 UTC] PHP Notice:  Undefined variable: emailShop in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 10
+[04-Apr-2024 16:24:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:10) in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 102
+[04-Apr-2024 16:26:49 UTC] PHP Notice:  Undefined variable: emailShop in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 10
+[04-Apr-2024 16:26:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:10) in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 102
+[04-Apr-2024 16:29:44 UTC] PHP Notice:  Undefined variable: emailShop in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 10
+[04-Apr-2024 16:29:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:10) in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 102
+[04-Apr-2024 16:30:21 UTC] PHP Notice:  Undefined variable: emailShop in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 10
+[04-Apr-2024 16:36:12 UTC] PHP Notice:  Undefined variable: emailShop in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 10
+[04-Apr-2024 16:45:55 UTC] PHP Notice:  Undefined variable: emailShop in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 10
+[04-Apr-2024 16:47:53 UTC] PHP Notice:  Undefined variable: emailShop in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 10
+[04-Apr-2024 16:50:09 UTC] PHP Notice:  Undefined index: emailAccount in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 14
+[04-Apr-2024 16:50:48 UTC] PHP Notice:  Undefined index: emailAccount in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 14
+[04-Apr-2024 16:52:41 UTC] PHP Notice:  Undefined index: emailAccount in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 13
+[04-Apr-2024 16:52:52 UTC] PHP Notice:  Undefined index: emailAccount in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 13
+[04-Apr-2024 17:10:27 UTC] PHP Notice:  Undefined index: emailAccount in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 13
+[05-Apr-2024 13:12:31 UTC] PHP Notice:  Undefined index: emailAccount in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 13
+[05-Apr-2024 13:12:38 UTC] PHP Notice:  Undefined index: emailAccount in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 13
+[05-Apr-2024 13:13:10 UTC] PHP Notice:  Undefined index: emailAccount in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 13
+[05-Apr-2024 13:13:13 UTC] PHP Notice:  Undefined index: emailAccount in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 13
+[05-Apr-2024 13:13:14 UTC] PHP Notice:  Undefined index: emailAccount in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 13
+[05-Apr-2024 13:13:29 UTC] PHP Notice:  Undefined index: emailAccount in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 13
+[05-Apr-2024 13:14:38 UTC] PHP Notice:  Undefined index: emailAccount in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 13
+[05-Apr-2024 13:14:38 UTC] PHP Notice:  Undefined index: emailAccount in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 13
+[05-Apr-2024 13:14:38 UTC] PHP Notice:  Undefined index: emailAccount in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 13
+[05-Apr-2024 13:14:38 UTC] PHP Notice:  Undefined index: emailAccount in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 13
+[05-Apr-2024 13:14:39 UTC] PHP Notice:  Undefined index: emailAccount in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 13
+[05-Apr-2024 13:14:39 UTC] PHP Notice:  Undefined index: emailAccount in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 13
+[05-Apr-2024 13:14:39 UTC] PHP Notice:  Undefined index: emailAccount in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 13
+[05-Apr-2024 13:14:39 UTC] PHP Notice:  Undefined index: emailAccount in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 13
+[05-Apr-2024 13:14:40 UTC] PHP Notice:  Undefined index: emailAccount in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 13
+[05-Apr-2024 13:15:00 UTC] PHP Notice:  Undefined index: emailAccount in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 13
+[05-Apr-2024 13:18:18 UTC] PHP Notice:  Undefined index: emailAccount in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 13
+[05-Apr-2024 13:18:45 UTC] PHP Notice:  Undefined index: emailAccount in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 13
+[05-Apr-2024 13:20:47 UTC] PHP Notice:  Undefined index: emailAccount in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 13
+[05-Apr-2024 13:21:46 UTC] PHP Notice:  Undefined index: emailAccount in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 13
+[05-Apr-2024 13:24:32 UTC] PHP Notice:  Undefined index: emailAccount in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 13
+[05-Apr-2024 13:25:25 UTC] PHP Notice:  Undefined variable: emailShop in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 11
+[05-Apr-2024 13:25:40 UTC] PHP Notice:  Undefined variable: emailShop in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 11
+[05-Apr-2024 13:26:33 UTC] PHP Notice:  Undefined variable: emailAccount in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 11
+[05-Apr-2024 13:29:51 UTC] PHP Notice:  Undefined variable: emailShop in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 13
+[05-Apr-2024 14:50:14 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:15 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:24 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:24 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:24 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:24 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:24 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:25 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:25 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:25 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:25 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:25 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:25 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:25 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:25 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:26 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:26 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:26 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:26 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:26 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:26 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:26 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:26 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:27 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:27 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:27 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:27 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:27 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:28 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:28 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:28 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:28 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:28 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:28 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:29 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:29 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:29 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:29 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:29 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:29 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:30 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:30 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:30 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:30 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:30 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:30 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:30 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:30 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:30 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:30 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:30 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:30 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:35 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:36 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:36 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:36 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:40 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:40 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:40 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:40 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:40 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:40 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:40 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:40 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:40 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:40 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:40 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:41 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:49 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:50:49 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:51:17 UTC] PHP Notice:  Undefined variable: idSlug in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 74
+[05-Apr-2024 14:51:17 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:81
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 81
+[05-Apr-2024 14:52:16 UTC] PHP Notice:  Undefined variable: idSlug in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 74
+[05-Apr-2024 14:52:16 UTC] PHP Fatal error:  Uncaught Error: Object of class mysqli_result could not be converted to string in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:81
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 81
+[05-Apr-2024 14:53:03 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 23
+[05-Apr-2024 14:54:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::mysqli_query() in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 21
+[05-Apr-2024 14:54:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli::mysqli_query() in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 21
+[05-Apr-2024 14:57:56 UTC] PHP Notice:  Array to string conversion in /home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_buscador.php on line 82
