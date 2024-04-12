@@ -1,48 +1,48 @@
 <?php
-    /*
-    Template Name: Empty Template
-    */
-    require '/home/he270716/public_html/platform.kalstein.net/wp-content/plugins/kalsteinPerfiles/php/conexion.php';
+/*
+Template Name: Empty Template
+*/
+require '/home/he270716/public_html/platform.kalstein.net/wp-content/plugins/kalsteinPerfiles/php/conexion.php';
 
-    $esquema = isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off' ? 'https' : 'http';
+$esquema = isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off' ? 'https' : 'http';
 
-    $host = $_SERVER['HTTP_HOST'];
+$host = $_SERVER['HTTP_HOST'];
 
-    $uri = $_SERVER['REQUEST_URI'];
+$uri = $_SERVER['REQUEST_URI'];
 
-    $fullUrl = $esquema . '://' . $host . $uri;
+$fullUrl = $esquema . '://' . $host . $uri;
 
-    $sql = "SELECT ID_user FROM tienda_virtual WHERE ID_slug = '$fullUrl'";
-    $result = $conexion->query($sql);
-    $rowShop = mysqli_fetch_array($result);
-    $emailShop = $rowShop['ID_user'] ?? NULL;
+$sql = "SELECT ID_user FROM tienda_virtual WHERE ID_slug = '$fullUrl'";
+$result = $conexion->query($sql);
+$rowShop = mysqli_fetch_array($result);
+$emailShop = $rowShop['ID_user'] ?? NULL;
 ?>
 
 <?php
-    require_once "/home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/config/main.php";
-    include ("/home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_datosPlantilla.php");
+require_once "/home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/config/main.php";
+include ("/home/he270716/public_html/platform.kalstein.net/template-editor/assets/app/sql/sql_datosPlantilla.php");
 ?>
 
 <?php
-    if (isset($datos_plantilla['nombre_idioma']) && !empty($datos_plantilla['nombre_idioma'])) {
-        $idioma_t = $datos_plantilla['nombre_idioma'];
-    } else {
-        $idioma_t = "en";
-    }
+if (isset($datos_plantilla['nombre_idioma']) && !empty($datos_plantilla['nombre_idioma'])) {
+    $idioma_t = $datos_plantilla['nombre_idioma'];
+} else {
+    $idioma_t = "en";
+}
 
-    if (isset($datos_plantilla['descripcion']) && !empty($datos_plantilla['descripcion'])) {
-        $descripcion_t = $datos_plantilla['descripcion'];
-    } else {
-        $descripcion_t = "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusamus reiciendis aspernatur eaque fuga, obcaecati laboriosam laudantium. Accusamus illum, sed asperiores eum libero cupiditate perferendis, dolorum, natus quis laborum culpa nam.";
-    }
+if (isset($datos_plantilla['descripcion']) && !empty($datos_plantilla['descripcion'])) {
+    $descripcion_t = $datos_plantilla['descripcion'];
+} else {
+    $descripcion_t = "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusamus reiciendis aspernatur eaque fuga, obcaecati laboriosam laudantium. Accusamus illum, sed asperiores eum libero cupiditate perferendis, dolorum, natus quis laborum culpa nam.";
+}
 
-    if (isset($datos_plantilla['color_p']) && !empty($datos_plantilla['color_p'])) {
-        $color_p = $datos_plantilla['color_p'];
-    }
+if (isset($datos_plantilla['color_p']) && !empty($datos_plantilla['color_p'])) {
+    $color_p = $datos_plantilla['color_p'];
+}
 
-    if (isset($datos_plantilla['color_s']) && !empty($datos_plantilla['color_s'])) {
-        $color_s = $datos_plantilla['color_s'];
-    }
+if (isset($datos_plantilla['color_s']) && !empty($datos_plantilla['color_s'])) {
+    $color_s = $datos_plantilla['color_s'];
+}
 ?>
 
 <!DOCTYPE html>
@@ -72,17 +72,17 @@
     <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
 
     <?php
-        $fondoP = isset($color_p) && $color_p != "" ? $color_p : 'var(--color-primario)';
-        $colorP = isset($color_p) && $color_p != "" ? $color_p : 'var(--color-primario)';
-        $bordeP = isset($color_p) && $color_p != "" ? $color_p : 'var(--color-primario)';
-        $fillP = isset($color_p) && $color_p != "" ? $color_p : 'var(--color-primario)';
+    $fondoP = isset($color_p) && $color_p != "" ? $color_p : 'var(--color-primario)';
+    $colorP = isset($color_p) && $color_p != "" ? $color_p : 'var(--color-primario)';
+    $bordeP = isset($color_p) && $color_p != "" ? $color_p : 'var(--color-primario)';
+    $fillP = isset($color_p) && $color_p != "" ? $color_p : 'var(--color-primario)';
 
-        $colorNegro = isset($color_p) && $color_p != "" ? $color_p : 'var(--color-neutro)';
+    $colorNegro = isset($color_p) && $color_p != "" ? $color_p : 'var(--color-neutro)';
 
-        $fondoS = isset($color_s) && $color_s != "" ? $color_s : 'var(--color-primario)';
-        $colorS = isset($color_s) && $color_s != "" ? $color_s : 'var(--color-primario)';
-        $bordeS = isset($color_s) && $color_s != "" ? $color_s : 'var(--color-primario)';
-        $fillS = isset($color_s) && $color_s != "" ? $color_s : 'var(--color-primario)';
+    $fondoS = isset($color_s) && $color_s != "" ? $color_s : 'var(--color-primario)';
+    $colorS = isset($color_s) && $color_s != "" ? $color_s : 'var(--color-primario)';
+    $bordeS = isset($color_s) && $color_s != "" ? $color_s : 'var(--color-primario)';
+    $fillS = isset($color_s) && $color_s != "" ? $color_s : 'var(--color-primario)';
     ?>
 
     <!-- Estilos de la vista principal -->
@@ -425,21 +425,21 @@
             <nav class="navbar" id="navbar">
                 <div class="navbar_contenedor_uno">
                     <?php
-                        if (!empty($datos_plantilla['logo_t'])) {
-                            echo '
+                    if (!empty($datos_plantilla['logo_t'])) {
+                        echo '
                                     <a href="#" class="btn_inicio">
                                         <figure class="navbar_img">
                                             <img src="' . $datos_plantilla["logo_t"] . '" alt="logo_empresa">
                                         </figure>
                                     </a>
                                 ';
-                        } else {
-                            echo '
+                    } else {
+                        echo '
                                     <figure class="navbar_img">
                                         <img src="https://platform.kalstein.net/template-editor/assets/img/logo-default-2.png" alt="logo_empresa">
                                     </figure>
                                 ';
-                        }
+                    }
                     ?>
                 </div>
 
@@ -552,14 +552,14 @@
 
             <!-- Contenedor de la Descripcion -->
             <?php
-                if (isset($datos_plantilla['titulo_t']) && !empty($datos_plantilla['titulo_t'])) {
-                    echo '
+            if (isset($datos_plantilla['titulo_t']) && !empty($datos_plantilla['titulo_t'])) {
+                echo '
                             <p class="descripcion_corta">
                                 ' . $descripcion_t . '
                             </p>
                         ';
-                } elseif ($tipo_usuario['account_rol_aid'] == 2 || $tipo_usuario['account_rol_aid'] == 3 || $tipo_usuario['account_rol_aid'] == 4) {
-                    echo '
+            } elseif ($tipo_usuario['account_rol_aid'] == 2 || $tipo_usuario['account_rol_aid'] == 3 || $tipo_usuario['account_rol_aid'] == 4) {
+                echo '
                             <h1 class="titulo_extra" style="color: ' . (isset($color_p) ? $color_p : 'var(--color-primario)') . ';">
                                 Short description of the store
                             </h1>
@@ -567,8 +567,8 @@
                                 ' . $descripcion_t . '
                             </p>
                         ';
-                } else {
-                    echo '
+            } else {
+                echo '
                             <h1 class="titulo_extra" style="color: ' . (isset($color_p) ? $color_p : 'var(--color-primario)') . ';">
                                 Short description of the store
                             </h1>
@@ -576,7 +576,7 @@
                                 ' . $descripcion_t . '
                             </p>
                         ';
-                }
+            }
             ?>
 
             <!-- Subtitulo de Conoce nuestros Productos -->
@@ -591,9 +591,9 @@
             <!-- Item 1 -->
             <div class="contenedor_item_doble">
                 <?php
-                    if (mysqli_num_rows($consulta_productos_limit) > 0) {
-                        while ($datos_producto_limit = mysqli_fetch_array($consulta_productos_limit)) {
-                            echo '
+                if (mysqli_num_rows($consulta_productos_limit) > 0) {
+                    while ($datos_producto_limit = mysqli_fetch_array($consulta_productos_limit)) {
+                        echo '
                                     <div class="item_doble elementoScroll">
                                         <a href="#" class="item_doble_enlace btn_productos">
                                             <figure class="item_doble_img">
@@ -604,30 +604,30 @@
                                     <div class="item_informacion">
                                 ';
 
-                            // Truncar el nombre del producto a las primeras 4 palabras
-                            $nombre_producto = $datos_producto_limit["product_name_en"];
-                            $palabras_producto = explode(' ', $nombre_producto);
-                            if (count($palabras_producto) > 4) {
-                                $nombre_producto_corto = implode(' ', array_slice($palabras_producto, 0, 4)) . '...';
-                            } else {
-                                $nombre_producto_corto = $nombre_producto;
-                            }
-                            echo '<h2>' . $nombre_producto_corto . '</h2>';
+                        // Truncar el nombre del producto a las primeras 4 palabras
+                        $nombre_producto = $datos_producto_limit["product_name_en"];
+                        $palabras_producto = explode(' ', $nombre_producto);
+                        if (count($palabras_producto) > 4) {
+                            $nombre_producto_corto = implode(' ', array_slice($palabras_producto, 0, 4)) . '...';
+                        } else {
+                            $nombre_producto_corto = $nombre_producto;
+                        }
+                        echo '<h2>' . $nombre_producto_corto . '</h2>';
 
-                            // Obtener la descripcion y truncarla si excede el limite de caracteres
-                            $descripcion = $datos_producto_limit["product_description"];
-                            $limite_caracteres = 190;
-                            if (strlen($descripcion) > $limite_caracteres) {
-                                $descripcion_truncada = substr($descripcion, 0, $limite_caracteres);
-                                // Encuentra el ultimo espacio dentro del limite de caracteres para evitar cortar palabras
-                                $ultimo_espacio = strrpos($descripcion_truncada, ' ');
-                                $descripcion_truncada = substr($descripcion_truncada, 0, $ultimo_espacio) . '...';
-                                echo '<p>' . $descripcion_truncada . '</p>';
-                            } else {
-                                echo '<p>' . $descripcion . '</p>';
-                            }
+                        // Obtener la descripcion y truncarla si excede el limite de caracteres
+                        $descripcion = $datos_producto_limit["product_description"];
+                        $limite_caracteres = 190;
+                        if (strlen($descripcion) > $limite_caracteres) {
+                            $descripcion_truncada = substr($descripcion, 0, $limite_caracteres);
+                            // Encuentra el ultimo espacio dentro del limite de caracteres para evitar cortar palabras
+                            $ultimo_espacio = strrpos($descripcion_truncada, ' ');
+                            $descripcion_truncada = substr($descripcion_truncada, 0, $ultimo_espacio) . '...';
+                            echo '<p>' . $descripcion_truncada . '</p>';
+                        } else {
+                            echo '<p>' . $descripcion . '</p>';
+                        }
 
-                            echo '
+                        echo '
                                         <div class="separador_boton_precio">
                                                 <a href="#" class="boton_ver_mas btn_productos">
                                                     See more
@@ -640,9 +640,9 @@
                                         </div>
                                     </div>
                                 ';
-                        }
-                    } elseif ($tipo_usuario['account_rol_aid'] == 2 || $tipo_usuario['account_rol_aid'] == 3 || $tipo_usuario['account_rol_aid'] == 4) {
-                        echo '
+                    }
+                } elseif ($tipo_usuario['account_rol_aid'] == 2 || $tipo_usuario['account_rol_aid'] == 3 || $tipo_usuario['account_rol_aid'] == 4) {
+                    echo '
                                 <div class="item_doble elementoScroll">
                                     <a href="#" class="item_doble_enlace btn_productos">
                                         <figure class="item_doble_img">
@@ -687,34 +687,34 @@
                                     </div>
                                 </div>
                             ';
-                    }
+                }
                 ?>
             </div>
 
             <!-- Item 2 -->
             <div class="contenedor_item_individual">
                 <?php
-                    if (mysqli_num_rows($consulta_prod_indiv) > 0) {
-                        while ($datos_prod_indiv = mysqli_fetch_array($consulta_prod_indiv)) {
-                            $parrafos_descripcion_cuatro = explode("\n", $datos_prod_indiv["product_description"]);
+                if (mysqli_num_rows($consulta_prod_indiv) > 0) {
+                    while ($datos_prod_indiv = mysqli_fetch_array($consulta_prod_indiv)) {
+                        $parrafos_descripcion_cuatro = explode("\n", $datos_prod_indiv["product_description"]);
 
-                            echo '
+                        echo '
                                     <div class="item_individual elementoScroll">
                                         <div class="item_informacion_individual">
                                             <div>
                                                 <h2>' . $datos_prod_indiv["product_name_en"] . '</h2>';
 
-                            $contador_parrafos = 0;
-                            foreach ($parrafos_descripcion_cuatro as $parrafo_cuatro) {
-                                echo '<p>' . $parrafo_cuatro . '</p>';
-                                $contador_parrafos++;
+                        $contador_parrafos = 0;
+                        foreach ($parrafos_descripcion_cuatro as $parrafo_cuatro) {
+                            echo '<p>' . $parrafo_cuatro . '</p>';
+                            $contador_parrafos++;
 
-                                if ($contador_parrafos == 2) {
-                                    break;
-                                }
+                            if ($contador_parrafos == 2) {
+                                break;
                             }
+                        }
 
-                            echo '
+                        echo '
                                             </div>
                                             <div class="separador_boton_precio">
                                                 <a href="#" class="boton_ver_mas btn_productos">
@@ -734,9 +734,9 @@
                                         </a>
                                     </div>
                                 ';
-                        }
-                    } elseif ($tipo_usuario['account_rol_aid'] == 2 || $tipo_usuario['account_rol_aid'] == 3 || $tipo_usuario['account_rol_aid'] == 4) {
-                        echo '
+                    }
+                } elseif ($tipo_usuario['account_rol_aid'] == 2 || $tipo_usuario['account_rol_aid'] == 3 || $tipo_usuario['account_rol_aid'] == 4) {
+                    echo '
                                 <div class="item_individual elementoScroll">
                                     <div class="item_informacion_individual">
                                         <div>
@@ -763,26 +763,26 @@
                                     </a>
                                 </div>
                             ';
-                    }
+                }
                 ?>
             </div>
 
             <!-- Item 3 -->
             <div class="contenedor_item_doble">
                 <?php
-                    function acortarNombre($nombre, $limitePalabras = 4)
-                    {
-                        $palabras = explode(' ', $nombre);
-                        if (count($palabras) > $limitePalabras) {
-                            return implode(' ', array_slice($palabras, 0, $limitePalabras)) . '...';
-                        } else {
-                            return $nombre;
-                        }
+                function acortarNombre($nombre, $limitePalabras = 4)
+                {
+                    $palabras = explode(' ', $nombre);
+                    if (count($palabras) > $limitePalabras) {
+                        return implode(' ', array_slice($palabras, 0, $limitePalabras)) . '...';
+                    } else {
+                        return $nombre;
                     }
+                }
 
-                    if (mysqli_num_rows($consulta_prod_limit) > 0) {
-                        while ($datos_prod_limit = mysqli_fetch_array($consulta_prod_limit)) {
-                            echo '
+                if (mysqli_num_rows($consulta_prod_limit) > 0) {
+                    while ($datos_prod_limit = mysqli_fetch_array($consulta_prod_limit)) {
+                        echo '
                                     <div class="item_doble elementoScroll">
                                         <a href="#" class="item_doble_enlace btn_productos">
                                             <figure class="item_doble_img">
@@ -793,20 +793,20 @@
                                         <div class="item_informacion">
                                             <h2>' . acortarNombre($datos_prod_limit["product_name_en"]) . '</h2>';
 
-                            // Obtener la descripcion y truncarla si excede el limite de caracteres
-                            $descripcionDos = $datos_prod_limit["product_description"];
-                            $limite_caracteres = 190;
-                            if (strlen($descripcionDos) > $limite_caracteres) {
-                                $descripcionDos_truncada = substr($descripcionDos, 0, $limite_caracteres);
-                                // Encuentra el ultimo espacio dentro del limite de caracteres para evitar cortar palabras
-                                $ultimo_espacioDos = strrpos($descripcionDos_truncada, ' ');
-                                $descripcionDos_truncada = substr($descripcionDos_truncada, 0, $ultimo_espacioDos) . '...';
-                                echo '<p>' . $descripcionDos_truncada . '</p>';
-                            } else {
-                                echo '<p>' . $descripcionDos . '</p>';
-                            }
+                        // Obtener la descripcion y truncarla si excede el limite de caracteres
+                        $descripcionDos = $datos_prod_limit["product_description"];
+                        $limite_caracteres = 190;
+                        if (strlen($descripcionDos) > $limite_caracteres) {
+                            $descripcionDos_truncada = substr($descripcionDos, 0, $limite_caracteres);
+                            // Encuentra el ultimo espacio dentro del limite de caracteres para evitar cortar palabras
+                            $ultimo_espacioDos = strrpos($descripcionDos_truncada, ' ');
+                            $descripcionDos_truncada = substr($descripcionDos_truncada, 0, $ultimo_espacioDos) . '...';
+                            echo '<p>' . $descripcionDos_truncada . '</p>';
+                        } else {
+                            echo '<p>' . $descripcionDos . '</p>';
+                        }
 
-                            echo '
+                        echo '
                                             <div class="separador_boton_precio">
                                                 <a href="#" class="boton_ver_mas btn_productos">
                                                     See more
@@ -819,8 +819,8 @@
                                         </div>
                                     </div>
                                 ';
-                        }
                     }
+                }
                 ?>
             </div>
 
@@ -1203,12 +1203,12 @@
             </div>
 
             <?php
-                // Verifica si el parametro show_button esta presente en la URL
-                $showButton = isset($_GET['show_button']) && $_GET['show_button'] === 'true';
+            // Verifica si el parametro show_button esta presente en la URL
+            $showButton = isset($_GET['show_button']) && $_GET['show_button'] === 'true';
 
-                // Si el parametro esta presente, muestra el boton
-                if ($showButton) {
-                    echo '
+            // Si el parametro esta presente, muestra el boton
+            if ($showButton) {
+                echo '
                             <a href="../../dashboard.php" class="btn_dashboard">
                                 <span>Go back to editor</span>
                             </a>
@@ -1219,7 +1219,7 @@
                                 </svg>
                             </a>
                         ';
-                }
+            }
             ?>
         </main>
     </div>
@@ -1327,7 +1327,7 @@
                                         <div class="producto_contenedor_detalles">
                                             <div class="producto_detalles">
                                                 <div class="producto_datos">
-                                                    <h2>'.$titulo_formateado.'</h2>
+                                                    <h2>' . $titulo_formateado . '</h2>
                                                     <span>' . $datos_producto["product_model"] . '</span>
                                                 </div>
                                                 <div class="producto_botones">
@@ -1377,7 +1377,7 @@
                                 </div>
         
                                 <div class="modal_detalles_info">
-                                    <h2>'.$titulo_formateado.'</h2>
+                                    <h2>' . $titulo_formateado . '</h2>
                                     
                                     <span>$' . $datos_producto["product_priceUSD"] . '</span>
                                     <h3>Descripción:</h3>
@@ -1396,7 +1396,7 @@
 
                             echo '
                                                 <div class="contenedor_boton_ver_mas">
-                                                    <a href="https://platform.kalstein.net/register/?search=' . $datos_producto["product_model"] . '" class="boton_ver_mas btn_cotizar">
+                                                    <a href="https://platform.kalstein.net/register/?search=' . $datos_producto["product_aid"] . '" class="boton_ver_mas btn_cotizar">
                                                         <span>Quote</span>
                                                         <svg class="icono_ver_mas" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 448 512">
                                                             <path d="M438.6 278.6c12.5-12.5 12.5-32.8 0-45.3l-160-160c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L338.8 224 32 224c-17.7 0-32 14.3-32 32s14.3 32 32 32l306.7 0L233.4 393.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l160-160z"></path>
@@ -1410,27 +1410,27 @@
                             ';
                         }
                     } /*else if(isset($_SESSION["emailAccount"])) {
-                        if($tipo_usuario['account_rol_aid'] == 2 || $tipo_usuario['account_rol_aid'] == 3 || $tipo_usuario['account_rol_aid'] == 4) {
-                        echo '
-                        <span class="subirtext">No has subido ningún Producto.</span>
-                        <a href="https://platform.kalstein.net/distribuidor/productos/agregar/" class="btn_agregar_producto" title="Agrega un Producto aquí">
-                        ¡Agrega un Producto!
-                        </a>
-                        ';
-                        } else {
-                        echo '
-                        <script>
-                        window.location.replace("https://platform.kalstein.net/template-editor/assets/vistas/plantilla.php");
-                        </script>";
-                        ';
-                        }
-                        } else {
-                        echo '
-                        <script>
-                        window.location.replace("https://platform.kalstein.net/template-editor/assets/vistas/plantilla.php");
-                        </script>";
-                        ';
-                        }*/
+                       if($tipo_usuario['account_rol_aid'] == 2 || $tipo_usuario['account_rol_aid'] == 3 || $tipo_usuario['account_rol_aid'] == 4) {
+                       echo '
+                       <span class="subirtext">No has subido ningún Producto.</span>
+                       <a href="https://platform.kalstein.net/distribuidor/productos/agregar/" class="btn_agregar_producto" title="Agrega un Producto aquí">
+                       ¡Agrega un Producto!
+                       </a>
+                       ';
+                       } else {
+                       echo '
+                       <script>
+                       window.location.replace("https://platform.kalstein.net/template-editor/assets/vistas/plantilla.php");
+                       </script>";
+                       ';
+                       }
+                       } else {
+                       echo '
+                       <script>
+                       window.location.replace("https://platform.kalstein.net/template-editor/assets/vistas/plantilla.php");
+                       </script>";
+                       ';
+                       }*/
                     ?>
                 </div>
 
